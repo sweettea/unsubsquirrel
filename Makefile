@@ -42,7 +42,7 @@ MANPAGES=$(wildcard man/man3/*.3 man/man1/*.1)
 # For pkg-config generation
 PACKAGE_NAME=unsubsquirrel
 PACKAGE_VERSION=0.0.1
-PACKAGE_DESCRIPTION=A program that teaches you how to unsubquirrel
+PACKAGE_DESCRIPTION=A program that teaches you how to unsubsquirrel
 PACKAGE_URL="http://github.com/c3d/unsubsquirrel"
 PACKAGE_REQUIRES=
 PACKAGE_BUGS=christophe@dinechin.org
